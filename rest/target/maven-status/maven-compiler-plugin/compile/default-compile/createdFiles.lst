@@ -1,0 +1,10 @@
+domain/services/MovieService.class
+domain/Comments.class
+rest/TestRest.class
+domain/Grade.class
+rest/MovieResources.class
+domain/Actor.class
+domain/Movie.class
+domain/services/ActorService.class
+rest/ApplicationConfig.class
+rest/ActorResources.class

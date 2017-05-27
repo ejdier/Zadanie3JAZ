@@ -1,0 +1,10 @@
+/opt/devel/workspace/rest/src/main/java/domain/services/MovieService.java
+/opt/devel/workspace/rest/src/main/java/domain/Grade.java
+/opt/devel/workspace/rest/src/main/java/domain/Movie.java
+/opt/devel/workspace/rest/src/main/java/rest/TestRest.java
+/opt/devel/workspace/rest/src/main/java/rest/ApplicationConfig.java
+/opt/devel/workspace/rest/src/main/java/domain/services/ActorService.java
+/opt/devel/workspace/rest/src/main/java/rest/MovieResources.java
+/opt/devel/workspace/rest/src/main/java/rest/ActorResources.java
+/opt/devel/workspace/rest/src/main/java/domain/Actor.java
+/opt/devel/workspace/rest/src/main/java/domain/Comments.java
